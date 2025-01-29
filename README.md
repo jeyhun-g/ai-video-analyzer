@@ -1,4 +1,4 @@
-# Video analyzer
+# AI Video analyzer
 This project uses OpenAI GPT-4o model to analyze and extract summary/main points from a video.  
 It also uses mlx-Whisper to extract transcript from a video
 
